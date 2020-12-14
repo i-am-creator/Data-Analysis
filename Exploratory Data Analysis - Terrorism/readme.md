@@ -65,59 +65,59 @@ c. **[Terrorism in India](#Terrorism_in_India)**
 ![alt text](.//plots//analysis///newplot%20(1).png)
 
 ### AttackType vs country <a name="2"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(2).png)
+![alt text](./plots/analysis/newplot%20(2).png)
 
 ### Analyse according to region <a name="3"></a>
 #### Total terror attacks and killed <a name="3_1"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(3).png)
+![alt text](./plots/analysis/newplot%20(3).png)
 
 #### AttackType vs Region <a name="3_2"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(4).png)
+![alt text](./plots/analysis/newplot%20(4).png)
 
 #### Year wise terror attacks  <a name="3_3"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(5).png)
+![alt text](./plots/analysis/newplot%20(5).png)
 
 #### Year wise terror killed  <a name="3_4"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(6).png)
+![alt text](./plots/analysis/newplot%20(6).png)
 
 ### Year wise total terror incident <a name="4"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(7).png)
+![alt text](./plots/analysis/newplot%20(7).png)
 
 ### Year wise terror attacks in Top 10 country <a name="5"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(8).png)
+![alt text](./plots/analysis/newplot%20(8).png)
 
 ### 15 Most active group <a name="6"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(9).png)
+![alt text](./plots/analysis/newplot%20(9).png)
 
 ### Attacking Methods by Terrorists <a name="7"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(10).png)
+![alt text](./plots/analysis/newplot%20(10).png)
 
 ### Attacking Targets by Terrorists <a name="8"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(11).png)
+![alt text](./plots/analysis/newplot%20(11).png)
 
 ### success vs fail <a name="9"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(12).png)
+![alt text](./plots/analysis/newplot%20(12).png)
 
 
 # **Terrorism in India** <a name="Terrorism_in_India"></a>
 
 ### animation  <a name="a"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/india.gif)
+![alt text](./india.gif)
 
 
 ### Most atacked cityies <a name="b"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/Terrorism_in_India/newplot.png)
+![alt text](./plots/Terrorism_in_India/newplot.png)
 
 ### Attacking Methods by Terrorists <a name="c"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/Terrorism_in_India/newplot%20(1).png)
+![alt text](./plots/Terrorism_in_India/newplot%20(1).png)
 
 ### Attacking Targets by Terrorists <a name="d"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/Terrorism_in_India/newplot%20(2).png)
+![alt text](./plots/Terrorism_in_India/newplot%20(2).png)
 
 ### 15 Most active group <a name="e"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/Terrorism_in_India/newplot%20(3).png)
+![alt text](./plots/Terrorism_in_India/newplot%20(3).png)
 
 ### Activity of most active groups  <a name="f"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/Terrorism_in_India/newplot%20(4).png)
+![alt text](./plots/Terrorism_in_India/newplot%20(4).png)
 
 
