@@ -1,5 +1,5 @@
 # Exploratory Data Analysis (EDA) on Terrorism(1970 to 2017)
-  ## By <a class="social-icon" href="https://www.linkedin.com/in/chitransh-tarsoliya-33639b172/" target="_blank">Chitransh Tarsoliya </a>
+## By <a class="social-icon" href="https://www.linkedin.com/in/chitransh-tarsoliya-33639b172/" target="_blank">Chitransh Tarsoliya </a>
   
 <a class="social-icon" href="https://github.com/i-am-creator/" target="_blank">Github</a>
 
