@@ -59,10 +59,10 @@ c. **[Terrorism in India](#Terrorism_in_India)**
 ----
 
 ### country wise total terror incident <a name="1"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot.png)
+![alt text](.//plots///analysis///newplot.png)
 
 ### top 10 country <a name="1_1"></a>
-![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(1).png)
+![alt text](.//plots//analysis///newplot%20(1).png)
 
 ### AttackType vs country <a name="2"></a>
 ![alt text](https://github.com/i-am-creator/Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/plots/analysis/newplot%20(2).png)
